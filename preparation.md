@@ -1,4 +1,4 @@
-# Preparatoin
+# Preparation
 
 <div class="bs-callout bs-callout-warning">
  <p>🥳 Congratulations on your selection for Coding-4-Conservation 2022!</p>
